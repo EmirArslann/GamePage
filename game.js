@@ -129,3 +129,4 @@ function keyPush(evt) {
     }
 
 }
+var score = document.getElementById("score")
